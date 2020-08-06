@@ -1,7 +1,7 @@
 # poem-machine
 PoemMachine by Chloé Matthews
-Poem generator written in Python, connects to SQLite3 database
 
+Poem generator written in Python, connects to SQLite3 database: 
 Generates random three-line poems from a database of content
 Allows users to write new content to database
 Currently runs in shell, updates will include user interface
